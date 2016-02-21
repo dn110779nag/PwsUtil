@@ -13,4 +13,8 @@ public class Example {
     public String sayHello(String name){
         return "Hello, "+name;
     }
+    
+    public int sum(int a, int b){
+        return a+b;
+    }
 }
